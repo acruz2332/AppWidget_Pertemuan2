@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PPAB2pertemuan2</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="app_widget_description">This is an app widget description</string>
+    <string name="widget_id_label">Widget ID</string>
+    <string name="widget_update_label">Last updated</string>
+    <string name="widget_button_label">Update now</string>
+    <string name="widget_button_update">UPDATE</string>
+</resources>
